@@ -1,6 +1,9 @@
 """ Depth-first search algorithm:
 
+problem: https://www.urionlinejudge.com.br/repository/UOJ_1076.html
+
 Implementation derived from https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
+
 """
 
 from collections import defaultdict
